@@ -1,6 +1,6 @@
 # Painterly Shader Material - UE5.6
 
-Project files to accompany the Unreal Engine tutorial series available at [Link to your tutorial, e.g., YouTube playlist].
+Project files to accompany the Unreal Engine tutorial series available on [Youtube](https://youtu.be/7RJGttIYNrY).
 
 ## License and Usage
 
