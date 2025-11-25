@@ -20,7 +20,7 @@ This means you are free to:
 *   **Adapt** — remix, transform, and build upon the material.
 
 Under the following terms:
-*   **Attribution** — You must give appropriate credit. If you use these files in a personal project, please credit me, [Your Name/Handle], and provide a link to this repository.
+*   **Attribution** — You must give appropriate credit. If you use these files in a personal project, please credit me, [Kher](https://www.youtube.com/@Kher.mp4), and provide a link to this repository.
 *   **NonCommercial** — You may not use the material for commercial purposes. This means you cannot sell these assets or use them in a project you intend to monetize.
 *   **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
