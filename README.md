@@ -1,4 +1,4 @@
-# [Your Tutorial Project Name]
+# Painterly Shader Material - UE5.6
 
 Project files to accompany the Unreal Engine tutorial series available at [Link to your tutorial, e.g., YouTube playlist].
 
